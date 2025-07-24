@@ -5,5 +5,5 @@
 - 🌍 Based in Kenya
 - 🚀 Currently learning: TypeScript and Next.js
 - 🧠 Fun fact: I can deploy a React app faster than I make coffee ☕
-- 🔗 My Portfolio (elijah-dot.github.io/whio/)
+- 🔗 My Portfolio: elijah-dot.github.io/whio/
 - 📫 How to reach me: elijahwangu91@gmail.com -->
